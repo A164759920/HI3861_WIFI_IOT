@@ -7,7 +7,6 @@
 - tcpserver 编译烧录所需全部文件
 
 - third_part/pahomqtt
-
   - 已适配 **LiteOS**
   - 已修改 **MQTT Thread**的**stack_size**，延缓溢出
 
